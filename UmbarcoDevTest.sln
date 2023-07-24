@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbarcoDevTest", "UmbarcoDevTest\UmbarcoDevTest.csproj", "{69C9036D-B144-4F2C-B185-1BDA6B0AEF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C9036D-B144-4F2C-B185-1BDA6B0AEF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C9036D-B144-4F2C-B185-1BDA6B0AEF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C9036D-B144-4F2C-B185-1BDA6B0AEF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C9036D-B144-4F2C-B185-1BDA6B0AEF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1DF1B7-05ED-46F3-88AA-482A6E230EDE}
+	EndGlobalSection
+EndGlobal
