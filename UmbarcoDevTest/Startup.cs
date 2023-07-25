@@ -1,3 +1,6 @@
+using UmbracoDevTest.Services.Implementation;
+using UmbracoDevTest.Services.Interface;
+
 namespace UmbarcoDevTest
 {
     public class Startup
@@ -35,6 +38,8 @@ namespace UmbarcoDevTest
                 .AddDeliveryApi()
                 .AddComposers()
                 .Build();
+            services.AddScoped<IGetUserService, GetUserService>();
+            services.AddMemoryCache();
         }
 
         /// <summary>
